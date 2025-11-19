@@ -1,4 +1,4 @@
-# BI Group Project Submission
+# BI Group Project 
 
 **Team Members:** 
 1. Aishuang Lin
